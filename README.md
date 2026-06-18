@@ -24,6 +24,6 @@ Welcome to my profile! I am currently focused on building a deep, fundamental un
 
 ## 📈 Connect / Track My Work
 
-* **LeetCode:** (https://leetcode.com/xDeathGod) *(Keeping this here to hold myself accountable as I start consistency loops)*
+* **LeetCode:** [Profile & Consistency Tracker](https://leetcode.com/xDeathGod) (Keeping this here to hold myself accountable as I start consistency loops)
 
 *"Focusing on the fundamentals until they become second nature."*
