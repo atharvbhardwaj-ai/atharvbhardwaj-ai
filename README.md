@@ -24,6 +24,7 @@ Welcome to my profile! I am currently focused on building a deep, fundamental un
 
 ## 📈 Connect / Track My Work
 
+* **LinkedIn:** [Atharv Bhardwaj](https://www.linkedin.com/in/your-profile-url) (For professional networking and university updates)
 * **LeetCode:** [Profile & Consistency Tracker](https://leetcode.com/xDeathGod) (Keeping this here to hold myself accountable as I start consistency loops)
 
 *"Focusing on the fundamentals until they become second nature."*
