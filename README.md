@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Atharv Bhardwaj! 👋
 
-<!--
-**atharvbhardwaj-ai/atharvbhardwaj-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech Engineering Student | Focus: C++ & DSA
 
-Here are some ideas to get you started:
+Welcome to my profile! I am currently focused on building a deep, fundamental understanding of core Computer Science principles and algorithms. No flashy buzzwords—just writing code, analyzing logic, and solving problems day by day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Current Tech Stack
+
+* **Primary Language:** C++ (Object-Oriented Programming, Memory Management, Templates)
+* **Tools:** VS Code, Git, GitHub
+* **Currently Learning:** Core Data Structures & Algorithmic Design
+
+---
+
+## 📅 Summer Focus & Progress
+
+* [x] **C++ Fundamentals & OOPs:** Mastered constructors, destructors, dynamic memory allocation, and generic template classes.
+* [x] **Core Problem Solving:** Tracking my foundational implementation logic inside my `DSA-Vault`.
+* [ ] **Next Steps:** Moving into advanced array representations, space/time complexity analysis, and transitioning into Python foundations.
+
+---
+
+## 📈 Connect / Track My Work
+
+* **LeetCode:** (https://leetcode.com/xDeathGod) *(Keeping this here to hold myself accountable as I start consistency loops)*
+
+*"Focusing on the fundamentals until they become second nature."*
